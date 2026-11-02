@@ -1,3 +1,6 @@
 /printer_config/printer-[0-9]*_[0-9]*.cfg
+/printer_config/AFC/AFC.var.unit
 *.backup
 *.bkp
+*.bak_*
+*.swp
